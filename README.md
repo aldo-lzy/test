@@ -7,3 +7,5 @@ git push 2019/2/15
 
 test git commit --amend step1
 test git commit --amend step2
+
+test branch b1
