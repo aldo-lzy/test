@@ -9,3 +9,4 @@ test git commit --amend step1
 test git commit --amend step2
 
 test branch b1
+test branch b2
